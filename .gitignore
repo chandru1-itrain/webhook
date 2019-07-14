@@ -1,0 +1,7 @@
+/.settings
+/target
+.CLASSPATH
+.PROJECT
+*.txt
+*.md
+*.exe
